@@ -34,7 +34,7 @@ end
    else
   ofupdate.title = createsprite(50,window.new.perm.height/2+130,"text")
   ofupdate.title.font = game.gamefont
-  ofupdate.title.text = "Update to the newest version!"
+  ofupdate.title.text = "You have the newest version! \n Download ace launcher for beta games and projects \n zr0.itch.io"
 end
 
 
